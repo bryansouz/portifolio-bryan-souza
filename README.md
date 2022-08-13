@@ -1,4 +1,4 @@
-# Portifolio Bryan Souza
+# Portifólio Bryan Souza
 
 <img src="assets/redme1.png">
 
@@ -15,5 +15,5 @@
 <p>Meu portfólio. Aplicação criada para mostrar os projetos que irei desenvolver durante minha carreira.</p>
 
 
-<h2>:dollar: Licença</h2>
+<h2>🔒 Licença</h2>
 <b>Proibida a utilização dos arquivos para fins diferentes de aprendizado.</b>
