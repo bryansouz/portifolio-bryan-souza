@@ -1,6 +1,8 @@
 # Portifólio Bryan Souza
 
-<img src="assets/redme1.png">
+<a href="https://bryansouz.github.io/portifolio-bryan-souza" target="_blank">
+<img src="assets/redme1.png"></a>
+
 
 
 <div style="display: inline_block">
@@ -12,7 +14,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>Meu portfólio. Aplicação criada para mostrar os projetos que irei desenvolver durante minha carreira.</p>
+<p>Meu portfólio. Aplicação criada para mostrar os projetos que criei.</p>
 
 
 <h2>🔒 Licença</h2>
