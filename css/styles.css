@@ -36,13 +36,13 @@ footer p {
 }
 
 footer span {
-  color: #00d2df;
+  color: #f2ff3b;
   font-weight: bold;
   transition: .4s;
 }
 
 footer span:hover {
-  color: rgba(101, 24, 180, 1)
+  color: rgb(255, 62, 4)
 }
 
 [data-anime="js-scroll"] {
@@ -127,7 +127,7 @@ nav p a {
 }
 
 nav p a:hover {
-  color: rgba(147, 88, 247, 1);
+  color: rgb(255, 102, 0);
 }
 
 .principal,
@@ -436,7 +436,7 @@ a {
 }
 
 .voltar a {
-  color: #00d2df;
+  color: #df3400;
   font-weight: bold;
   transition: 0.3s;
 }
@@ -460,7 +460,7 @@ a {
 }
 
 ::selection {
-  background-color: rgba(101, 24, 180, 1);
+  background-color: rgb(180, 24, 24);
 }
 
 @media (max-width: 1325px) {
