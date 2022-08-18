@@ -17,5 +17,5 @@
 <p>Meu portfólio. Aplicação criada para mostrar os projetos que criei.</p>
 
 
-<h2>🔒 Licença</h2>
+<h2>🔒Licença</h2>
 <b>Proibida a utilização dos arquivos para fins diferentes de aprendizado.</b>
