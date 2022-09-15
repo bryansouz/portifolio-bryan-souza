@@ -1,6 +1,6 @@
 # Portifólio Bryan Souza
 
-<a href="https://bryansouz.github.io/portifolio-bryan-souza" target="_blank">
+<a href="https://bryansouz.github.io/portifolio-bryan-souza." target="_blank">
 <img src="assets/redme1.png"></a>
 
 
