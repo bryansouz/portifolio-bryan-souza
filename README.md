@@ -14,7 +14,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>Meu portfólio. Aplicação criada para mostrar os projetos que criei.</p>
+<p>Meu portfólio. Aplicação criada para mostrar os projetos que criei</p>
 
 
 <h2>🔒Licença</h2>
